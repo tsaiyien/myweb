@@ -1,0 +1,12 @@
+body{
+	text-align: center;
+}
+.btn{
+	border: solid 1px pink;
+	width: 100px;
+	height: 100px;
+	display: inline;
+	font-size: 30px;
+	color: #470e6e;
+	background-color: #f0b9b9;
+}
